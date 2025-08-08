@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrinitaDas
 - 👀 I’m interested in Web and Application development 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning Node with Express and API handeling
 - 💞️ I’m looking to collaborate on Web & App 
 - 📫 How to reach me - you can check my account in and find me through LinkedIn 
 - 😄 Pronouns: ...
